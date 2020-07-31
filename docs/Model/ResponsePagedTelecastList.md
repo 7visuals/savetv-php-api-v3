@@ -1,0 +1,10 @@
+# ResponsePagedTelecastList
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**items** | [**\Swagger\Client\Model\ResponseTelecast[]**](ResponseTelecast.md) |  | [optional] 
+**paging** | [**AllOfResponsePagedTelecastListPaging**](AllOfResponsePagedTelecastListPaging.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
